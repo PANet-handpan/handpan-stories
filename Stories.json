@@ -1,12 +1,7 @@
-{
-  "items": [
-    {
-      "id": 0,
-      "active": true,
-      "imageUrl": "https://github.com/PANet-handpan/handpan-stories/blob/1255df87053f2566dcc9ee8992ac40e4bf9040d4/Storie%201.png?raw=true",
-      "videoUrl": "https://github.com/PANet-handpan/handpan-stories/raw/refs/heads/main/Storie%201.mov",
-      "label": "Hossein Mehrabani",
-      "link": "https://www.instagram.com/hosseinmehrabani97?igsh=MXFiZnd0eDBub3pmcw=="
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "buttonImageUrl": "https://github.com/PANet-handpan/handpan-stories/blob/1255df87053f2566dcc9ee8992ac40e4bf9040d4/Storie%201.png?raw=true",
+    "videoUrl": "https://github.com/PANet-handpan/handpan-stories/raw/refs/heads/main/Storie%201.mov"
+  },
+]
