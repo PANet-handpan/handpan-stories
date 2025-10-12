@@ -1,7 +1,9 @@
-[
-  {
-    "id": 1,
-    "buttonImageUrl": "https://github.com/PANet-handpan/handpan-stories/blob/1255df87053f2566dcc9ee8992ac40e4bf9040d4/Storie%201.png?raw=true",
-    "videoUrl": "https://github.com/PANet-handpan/handpan-stories/raw/refs/heads/main/Storie%201.mov"
-  },
-]
+{
+  "stories": [
+    {
+      "id": 1,
+      "buttonImageUrl": "https://github.com/PANet-handpan/handpan-stories/blob/1255df87053f2566dcc9ee8992ac40e4bf9040d4/Storie%201.png?raw=true",
+      "videoUrl": "https://github.com/PANet-handpan/handpan-stories/raw/refs/heads/main/Storie%201.mov"
+    }
+  ]
+}
