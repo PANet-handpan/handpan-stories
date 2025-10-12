@@ -3,8 +3,8 @@
     {
       "id": "story1",
       "type": "video",
-      "videoUrl": "https://raw.githubusercontent.com/yourname/yourrepo/main/videos/video1.mp4",
-      "thumbUrl": "https://raw.githubusercontent.com/yourname/yourrepo/main/thumbs/thumb1.jpg"
+      "videoUrl": "https://github.com/PANet-handpan/handpan-stories/raw/refs/heads/main/Storie%201.mov",
+      "thumbUrl": "https://github.com/PANet-handpan/handpan-stories/blob/1255df87053f2566dcc9ee8992ac40e4bf9040d4/Storie%201.png?raw=true"
     }
   ]
 }
