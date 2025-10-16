@@ -8,6 +8,15 @@
       "buttonText": "Instagram",
       "buttonUrl": "https://www.instagram.com/hosseinmehrabani97?igsh=MXFiZnd0eDBub3pmcw==",
       "viewCount": 0
+    },
+     {
+      "id": "story4",
+      "type": "video",
+      "videoUrl": "https://github.com/PANet-handpan/handpan-stories/raw/refs/heads/main/Final%20vocal.mp4",
+      "thumbUrl": "https://raw.githubusercontent.com/PANet-handpan/handpan-stories/refs/heads/main/khodam.png",
+      "buttonText": "Instagram",
+      "buttonUrl": "https://www.instagram.com/hosseinmehrabani97?igsh=MXFiZnd0eDBub3pmcw==",
+      "viewCount": 0
     }
   ]
 }
